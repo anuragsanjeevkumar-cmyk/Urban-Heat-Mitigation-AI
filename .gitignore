@@ -1,0 +1,25 @@
+# OSM Data
+data/raw/osm/
+
+# Raster Data
+*.tif
+*.tiff
+
+# Cache
+notebooks/cache/
+
+# Processed Data
+data/processed/
+
+# Raster data
+*.tif
+*.tiff
+
+# Processed outputs
+data/processed/
+
+# Notebook cache
+notebooks/cache/
+
+# OSM data
+data/raw/osm/
